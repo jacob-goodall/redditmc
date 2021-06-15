@@ -1,0 +1,8 @@
+#!c:\users\jacob_goodall\pycharmprojects\redditmc\venv\scripts\python.exe
+"""An interactive RCON shell."""
+
+from mcipc.cli.rconshell import main
+
+
+if __name__ == '__main__':
+    main()

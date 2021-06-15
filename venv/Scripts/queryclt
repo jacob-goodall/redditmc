@@ -1,0 +1,8 @@
+#!c:\users\jacob_goodall\pycharmprojects\redditmc\venv\scripts\python.exe
+"""A Minecraft Query client."""
+
+from mcipc.cli.queryclt import main
+
+
+if __name__ == '__main__':
+    main()

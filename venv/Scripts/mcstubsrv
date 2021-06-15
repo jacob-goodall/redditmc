@@ -1,0 +1,8 @@
+#!c:\users\jacob_goodall\pycharmprojects\redditmc\venv\scripts\python.exe
+"""A Minecraft stub server."""
+
+from mcipc.cli.stubsrv import main
+
+
+if __name__ == '__main__':
+    main()
